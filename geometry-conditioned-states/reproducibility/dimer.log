@@ -1,0 +1,14 @@
+dimer data 0
+dimer data 50
+dimer data 100
+dimer data 150
+dimer data 200
+{'anchors': 9, 'side': 3, 'seed': 0, 'region': 'ID', 'success': True, 'iterations': 646, 'seconds': 0.21007990837097168, 'E_MAE_mHa': 0.9608735741468533, 'E_max_mHa': 3.991770993478916, 'F_RMSE_mHa_bohr': 2.309431277780158, 'F_frozen_RMSE_mHa_bohr': 10.395328863900922, 'infidelity_mean': 0.002317801768467972}
+{'anchors': 9, 'side': 3, 'seed': 1, 'region': 'ID', 'success': True, 'iterations': 626, 'seconds': 0.20114541053771973, 'E_MAE_mHa': 1.0708194973957654, 'E_max_mHa': 4.102927839366721, 'F_RMSE_mHa_bohr': 2.6144522815071762, 'F_frozen_RMSE_mHa_bohr': 9.740119615858855, 'infidelity_mean': 0.0018065403219409443}
+{'anchors': 9, 'side': 3, 'seed': 2, 'region': 'ID', 'success': True, 'iterations': 612, 'seconds': 0.19395661354064941, 'E_MAE_mHa': 0.8640914236228953, 'E_max_mHa': 4.2322866085193755, 'F_RMSE_mHa_bohr': 2.6335933460908603, 'F_frozen_RMSE_mHa_bohr': 10.449064184662417, 'infidelity_mean': 0.0020448215778406083}
+{'anchors': 25, 'side': 5, 'seed': 0, 'region': 'ID', 'success': False, 'iterations': 2500, 'seconds': 0.9596686363220215, 'E_MAE_mHa': 0.007310551198962585, 'E_max_mHa': 0.033767403034623555, 'F_RMSE_mHa_bohr': 0.031891861245649966, 'F_frozen_RMSE_mHa_bohr': 0.8392316808037696, 'infidelity_mean': 1.1840942725177858e-05}
+{'anchors': 25, 'side': 5, 'seed': 1, 'region': 'ID', 'success': False, 'iterations': 2500, 'seconds': 0.9479796886444092, 'E_MAE_mHa': 0.007495042304082415, 'E_max_mHa': 0.043791028489170714, 'F_RMSE_mHa_bohr': 0.027680287197077255, 'F_frozen_RMSE_mHa_bohr': 0.7939803508287534, 'infidelity_mean': 1.4883826367092296e-05}
+{'anchors': 25, 'side': 5, 'seed': 2, 'region': 'ID', 'success': False, 'iterations': 2500, 'seconds': 0.9395525455474854, 'E_MAE_mHa': 0.003904411207918586, 'E_max_mHa': 0.01751185838294589, 'F_RMSE_mHa_bohr': 0.016328295317511746, 'F_frozen_RMSE_mHa_bohr': 0.5199320418926543, 'infidelity_mean': 6.657326720814945e-06}
+{'anchors': 49, 'side': 7, 'seed': 0, 'region': 'ID', 'success': False, 'iterations': 2500, 'seconds': 1.1778697967529297, 'E_MAE_mHa': 0.0032835193773080493, 'E_max_mHa': 0.010337483107747403, 'F_RMSE_mHa_bohr': 0.013612958241863019, 'F_frozen_RMSE_mHa_bohr': 0.4471455501785841, 'infidelity_mean': 9.455021320235272e-06}
+{'anchors': 49, 'side': 7, 'seed': 1, 'region': 'ID', 'success': False, 'iterations': 2500, 'seconds': 1.1573312282562256, 'E_MAE_mHa': 0.004239765457595783, 'E_max_mHa': 0.016225563344463012, 'F_RMSE_mHa_bohr': 0.018953095760311532, 'F_frozen_RMSE_mHa_bohr': 0.5048108189273147, 'infidelity_mean': 1.8283301778551642e-05}
+{'anchors': 49, 'side': 7, 'seed': 2, 'region': 'ID', 'success': False, 'iterations': 2500, 'seconds': 1.148162841796875, 'E_MAE_mHa': 0.00148515294800348, 'E_max_mHa': 0.007392335148903584, 'F_RMSE_mHa_bohr': 0.00694229452627967, 'F_frozen_RMSE_mHa_bohr': 0.29832191004304515, 'infidelity_mean': 4.9641912325334065e-06}

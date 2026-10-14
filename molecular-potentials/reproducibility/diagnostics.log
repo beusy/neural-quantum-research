@@ -1,0 +1,23 @@
+{
+  "force_jacobian_ranks": [
+    21,
+    21,
+    21,
+    21,
+    21
+  ],
+  "chronological_ethanol": {
+    "reg": 0.001,
+    "E_RMSE": 0.8055841823394708,
+    "F_RMSE": 3.2358325491560467,
+    "E_MAE": 0.612567380466935,
+    "F_MAE": 2.2529723290373647
+  },
+  "disconnected_force_gauge": {
+    "C_eV": 2.0,
+    "left_force_difference": 0.0,
+    "right_force_difference": 0.0,
+    "relative_energy_offset_eV": 2.0
+  },
+  "MLP_mixed_derivative_check": 3.32557315019244e-11
+}

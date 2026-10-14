@@ -1,0 +1,65 @@
+[
+  {
+    "system": "H2",
+    "model": "FCI coefficient spline",
+    "E_MAE_mHa": 2.714078571535395e-06,
+    "F_RMSE_mHa_bohr": 4.956594783269216e-05,
+    "min_energy_error_Ha": 2.5979218776228663e-13
+  },
+  {
+    "system": "H2",
+    "model": "FCI energy spline",
+    "E_MAE_mHa": 0.7363335705748694,
+    "F_RMSE_mHa_bohr": 10.901508294453798,
+    "min_energy_error_Ha": -0.0018539439084783726
+  },
+  {
+    "system": "H2",
+    "model": "RHF",
+    "E_MAE_mHa": 112.38152022727117,
+    "F_RMSE_mHa_bohr": 62.84431151086313,
+    "min_energy_error_Ha": 0.013353898675620313
+  },
+  {
+    "system": "H4",
+    "model": "FCI coefficient spline",
+    "E_MAE_mHa": 0.00014235054308116353,
+    "F_RMSE_mHa_bohr": 0.0038429985828384913,
+    "min_energy_error_Ha": 7.56801288304132e-11
+  },
+  {
+    "system": "H4",
+    "model": "FCI energy spline",
+    "E_MAE_mHa": 2.741359135556203,
+    "F_RMSE_mHa_bohr": 41.20922618737295,
+    "min_energy_error_Ha": -0.006857280686218825
+  },
+  {
+    "system": "H4",
+    "model": "RHF",
+    "E_MAE_mHa": 219.9855702191076,
+    "F_RMSE_mHa_bohr": 125.63726903738446,
+    "min_energy_error_Ha": 0.026977895287829234
+  },
+  {
+    "system": "H6",
+    "model": "FCI coefficient spline",
+    "E_MAE_mHa": 0.00035128309846779417,
+    "F_RMSE_mHa_bohr": 0.007958740363420643,
+    "min_energy_error_Ha": 1.2599228327303535e-09
+  },
+  {
+    "system": "H6",
+    "model": "FCI energy spline",
+    "E_MAE_mHa": 5.183204984527728,
+    "F_RMSE_mHa_bohr": 67.74202767984127,
+    "min_energy_error_Ha": -0.012347362537834528
+  },
+  {
+    "system": "H6",
+    "model": "RHF",
+    "E_MAE_mHa": 327.1629387612582,
+    "F_RMSE_mHa_bohr": 188.51413675566246,
+    "min_energy_error_Ha": 0.043214116806540304
+  }
+]

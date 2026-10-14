@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "Please cite the relevant report and acknowledge its cited methods and datasets."
+type: software
+title: "Neural Quantum States and Molecular Potentials"
+authors:
+  - family-names: "van Beusichem"
+    given-names: "Don"
+repository-code: "https://github.com/beusy/neural-quantum-research"

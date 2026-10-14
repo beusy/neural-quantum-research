@@ -1,0 +1,20 @@
+[
+  {
+    "n": 2,
+    "one_RDM_Frobenius_mean_ID": 0.00021798252510815913,
+    "trace_error_max": 8.881784197001252e-16,
+    "hermiticity_error_max": 0.0
+  },
+  {
+    "n": 4,
+    "one_RDM_Frobenius_mean_ID": 0.001065867323687318,
+    "trace_error_max": 1.7763568394002505e-15,
+    "hermiticity_error_max": 0.0
+  },
+  {
+    "n": 6,
+    "one_RDM_Frobenius_mean_ID": 0.0007215055403027854,
+    "trace_error_max": 5.329070518200751e-15,
+    "hermiticity_error_max": 0.0
+  }
+]

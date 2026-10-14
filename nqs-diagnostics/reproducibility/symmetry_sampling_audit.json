@@ -1,0 +1,30 @@
+[
+  {
+    "method": "global_flip",
+    "repetitions": 20,
+    "symmetry_audit_flags": 0,
+    "no_sign_changes": 0,
+    "mean_naive_SE": 0.01555148746692859
+  },
+  {
+    "method": "iid",
+    "repetitions": 20,
+    "symmetry_audit_flags": 0,
+    "no_sign_changes": 0,
+    "mean_naive_SE": 0.015553529407528327
+  },
+  {
+    "method": "local_down",
+    "repetitions": 20,
+    "symmetry_audit_flags": 20,
+    "no_sign_changes": 20,
+    "mean_naive_SE": 0.0005105973492385456
+  },
+  {
+    "method": "local_up",
+    "repetitions": 20,
+    "symmetry_audit_flags": 20,
+    "no_sign_changes": 20,
+    "mean_naive_SE": 0.0005105973492385456
+  }
+]

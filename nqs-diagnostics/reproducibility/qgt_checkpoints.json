@@ -1,0 +1,28 @@
+[
+  {
+    "checkpoint": 5,
+    "E": -9.801211687886166,
+    "E_error": 0.4504501030798558,
+    "infidelity": 0.4074009584695192,
+    "variance": 2.071395237422198,
+    "gradient_norm": 2.190365830828724,
+    "QGT_rank": 80,
+    "QGT_correlation_rank": 80,
+    "tangent_unrepresented_fraction": 0.09407583846171665,
+    "tangent_unrepresented_norm": 0.1353971691726844,
+    "parameters": 80
+  },
+  {
+    "checkpoint": 25,
+    "E": -10.23674305318212,
+    "E_error": 0.014918737783901292,
+    "infidelity": 0.0037315825599106844,
+    "variance": 0.10550915717768564,
+    "gradient_norm": 0.15496781144631072,
+    "QGT_rank": 80,
+    "QGT_correlation_rank": 80,
+    "tangent_unrepresented_fraction": 0.2873594419378718,
+    "tangent_unrepresented_norm": 0.09334059145908567,
+    "parameters": 80
+  }
+]

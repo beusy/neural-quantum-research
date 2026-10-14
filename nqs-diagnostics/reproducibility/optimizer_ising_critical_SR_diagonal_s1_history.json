@@ -1,0 +1,72 @@
+[
+  {
+    "iteration": 1,
+    "E_error": 2.0226375765236213,
+    "infidelity": 0.5444655925413044,
+    "magnetization": 0.018554462361100373,
+    "Hamiltonian_evaluations": 2
+  },
+  {
+    "iteration": 5,
+    "E_error": 1.101434381148815,
+    "infidelity": 0.40000969498618577,
+    "magnetization": 0.021662763463412046,
+    "Hamiltonian_evaluations": 10
+  },
+  {
+    "iteration": 10,
+    "E_error": 0.40807748149170564,
+    "infidelity": 0.21867146992160225,
+    "magnetization": 0.02735511619866378,
+    "Hamiltonian_evaluations": 20
+  },
+  {
+    "iteration": 25,
+    "E_error": 0.0005012111350826132,
+    "infidelity": 0.0004729136877583695,
+    "magnetization": 0.028785568343395407,
+    "Hamiltonian_evaluations": 50
+  },
+  {
+    "iteration": 50,
+    "E_error": 0.00015677364092780977,
+    "infidelity": 6.0428079939667256e-05,
+    "magnetization": 0.010553835389861765,
+    "Hamiltonian_evaluations": 100
+  },
+  {
+    "iteration": 100,
+    "E_error": 0.00012496588455945812,
+    "infidelity": 1.2824202235028892e-05,
+    "magnetization": 0.0014138337929195943,
+    "Hamiltonian_evaluations": 200
+  },
+  {
+    "iteration": 200,
+    "E_error": 0.00010746122426041893,
+    "infidelity": 1.017996917951347e-05,
+    "magnetization": 2.435311154314057e-05,
+    "Hamiltonian_evaluations": 400
+  },
+  {
+    "iteration": 300,
+    "E_error": 0.00010121552787722976,
+    "infidelity": 9.668551785080304e-06,
+    "magnetization": 1.5355912957870643e-07,
+    "Hamiltonian_evaluations": 600
+  },
+  {
+    "iteration": 400,
+    "E_error": 9.8475213192728e-05,
+    "infidelity": 9.438062285371807e-06,
+    "magnetization": -9.260537769950616e-08,
+    "Hamiltonian_evaluations": 800
+  },
+  {
+    "iteration": 500,
+    "E_error": 9.698031148630548e-05,
+    "infidelity": 9.304794742259759e-06,
+    "magnetization": -3.494563172168341e-08,
+    "Hamiltonian_evaluations": 1000
+  }
+]

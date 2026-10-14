@@ -1,0 +1,30 @@
+[
+  {
+    "system": "ising_ferro",
+    "ground_energy": -8.080202559111347,
+    "analytic_energy": -8.080202559111356,
+    "absolute_error": 8.881784197001252e-15,
+    "eigen_residual": 1.7870944631854545e-14
+  },
+  {
+    "system": "ising_critical",
+    "ground_energy": -10.251661790966022,
+    "analytic_energy": -10.251661790966025,
+    "absolute_error": 3.552713678800501e-15,
+    "eigen_residual": 1.3240756911098894e-14
+  },
+  {
+    "system": "ising_para",
+    "ground_energy": -17.018164470280553,
+    "analytic_energy": -17.01816447028056,
+    "absolute_error": 7.105427357601002e-15,
+    "eigen_residual": 2.0506994372473596e-14
+  },
+  {
+    "system": "ising_critical_N10",
+    "ground_energy": -12.784906442999322,
+    "analytic_energy": -12.784906442999324,
+    "absolute_error": 1.7763568394002505e-15,
+    "eigen_residual": 4.615758535805038e-15
+  }
+]

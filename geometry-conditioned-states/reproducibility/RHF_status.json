@@ -1,0 +1,17 @@
+[
+  {
+    "n": 2,
+    "failures": 0,
+    "max_iterations": 1
+  },
+  {
+    "n": 4,
+    "failures": 21,
+    "max_iterations": 500
+  },
+  {
+    "n": 6,
+    "failures": 0,
+    "max_iterations": 134
+  }
+]

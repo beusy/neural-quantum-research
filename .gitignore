@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+*.aux
+*.toc
+*.out
+*.synctex.gz
+.mpl-cache/
+molecular-potentials/reproducibility/data/

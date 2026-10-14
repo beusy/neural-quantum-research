@@ -1,0 +1,56 @@
+{
+  "date": "2026-10-14",
+  "numpy": "2.5.4",
+  "scipy": "1.18.1",
+  "molecular_checks": {
+    "molecular_energy_derivative_max_error": 7.65457142115622e-12,
+    "molecular_parameter_and_mixed_derivative_max_error": 1.7578771771553647e-11
+  },
+  "geometry_gradient_check": {
+    "mixed_parameter_gradient_max": 1.4044366277582432e-10
+  },
+  "spin_checks": [
+    {
+      "check": "tensor_TFIM_4",
+      "maximum_error": 0.0
+    },
+    {
+      "check": "tensor_TFIM_6",
+      "maximum_error": 0.0
+    },
+    {
+      "check": "tensor_J1J2_6",
+      "maximum_error": 0.0
+    },
+    {
+      "check": "positive_RBM_energy_gradient",
+      "maximum_error": 1.048393150071547e-09
+    },
+    {
+      "check": "positive_RBM_infidelity_gradient",
+      "maximum_error": 2.2814225508760444e-10
+    },
+    {
+      "check": "positive_RBM_normalized_tangent",
+      "maximum_error": 1.6046192152785466e-16
+    },
+    {
+      "check": "QGT_covariance_identity",
+      "maximum_error": 1.1102230246251565e-16
+    },
+    {
+      "check": "signed_MLP_energy_gradient",
+      "maximum_error": 1.373660758058337e-09
+    },
+    {
+      "check": "signed_MLP_infidelity_gradient",
+      "maximum_error": 1.561016246820479e-10
+    },
+    {
+      "check": "signed_MLP_normalized_tangent",
+      "maximum_error": 3.434752482434078e-16
+    }
+  ],
+  "npz_files_checked": 223,
+  "full_training_rerun": false
+}

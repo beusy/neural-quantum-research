@@ -1,0 +1,20 @@
+[
+  {
+    "system": "H2",
+    "bound_RMS_mHa_bohr": 0.3157226326202686,
+    "actual_RMS_mHa_bohr": 0.00011592337270744255,
+    "max_violation": -7.1272522903360416e-06
+  },
+  {
+    "system": "H4",
+    "bound_RMS_mHa_bohr": 12.749387026975453,
+    "actual_RMS_mHa_bohr": 0.005305789010922567,
+    "max_violation": -0.001549887800882075
+  },
+  {
+    "system": "H6",
+    "bound_RMS_mHa_bohr": 54.25227993194606,
+    "actual_RMS_mHa_bohr": 0.021159882688886626,
+    "max_violation": -0.001718738397989032
+  }
+]

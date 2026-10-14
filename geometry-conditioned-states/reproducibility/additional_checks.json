@@ -1,0 +1,20 @@
+{
+  "H2": {
+    "Hamiltonian_derivative_halfstep_max": 3.6703973194107675e-09,
+    "neural_force_central_difference_max": 3.4212654445586743e-09,
+    "S2_max_ID": 2.3989613207042737e-07,
+    "S2_exact_max": 5.551115123125783e-17
+  },
+  "H4": {
+    "Hamiltonian_derivative_halfstep_max": 4.380940055170868e-08,
+    "neural_force_central_difference_max": 1.3932029419017056e-08,
+    "S2_max_ID": 5.814037258464407e-07,
+    "S2_exact_max": 2.522734120048977e-16
+  },
+  "H6": {
+    "Hamiltonian_derivative_halfstep_max": 9.626299757314882e-08,
+    "neural_force_central_difference_max": 2.501574591917688e-08,
+    "S2_max_ID": 2.441908045011866e-06,
+    "S2_exact_max": 2.0613911211308256e-16
+  }
+}

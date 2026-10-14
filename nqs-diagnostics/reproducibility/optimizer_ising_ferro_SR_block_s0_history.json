@@ -1,0 +1,72 @@
+[
+  {
+    "iteration": 1,
+    "E_error": 6.158721750884219,
+    "infidelity": 0.9790807510161638,
+    "magnetization": 0.03580827482850146,
+    "Hamiltonian_evaluations": 2
+  },
+  {
+    "iteration": 5,
+    "E_error": 5.136700320029543,
+    "infidelity": 0.9541136392829506,
+    "magnetization": 0.0856536464969504,
+    "Hamiltonian_evaluations": 10
+  },
+  {
+    "iteration": 10,
+    "E_error": 4.041827324939115,
+    "infidelity": 0.8989112724408748,
+    "magnetization": 0.1811792074191499,
+    "Hamiltonian_evaluations": 20
+  },
+  {
+    "iteration": 25,
+    "E_error": 1.1920220705168276,
+    "infidelity": 0.6109832990790391,
+    "magnetization": 0.7688446854361117,
+    "Hamiltonian_evaluations": 50
+  },
+  {
+    "iteration": 50,
+    "E_error": 1.2450537667518802e-06,
+    "infidelity": 0.49998256089218684,
+    "magnetization": 0.9949120114141128,
+    "Hamiltonian_evaluations": 105
+  },
+  {
+    "iteration": 100,
+    "E_error": 6.922484665494721e-07,
+    "infidelity": 0.49998970859916547,
+    "magnetization": 0.9949104932188121,
+    "Hamiltonian_evaluations": 214
+  },
+  {
+    "iteration": 200,
+    "E_error": 6.259898022165089e-07,
+    "infidelity": 0.49999135719854926,
+    "magnetization": 0.9949103798015354,
+    "Hamiltonian_evaluations": 431
+  },
+  {
+    "iteration": 300,
+    "E_error": 6.164855559376292e-07,
+    "infidelity": 0.49999174600432317,
+    "magnetization": 0.9949103332567919,
+    "Hamiltonian_evaluations": 649
+  },
+  {
+    "iteration": 400,
+    "E_error": 6.109837364931536e-07,
+    "infidelity": 0.4999920131981428,
+    "magnetization": 0.9949103573441439,
+    "Hamiltonian_evaluations": 865
+  },
+  {
+    "iteration": 500,
+    "E_error": 6.058614339110591e-07,
+    "infidelity": 0.4999922724387381,
+    "magnetization": 0.9949103528636755,
+    "Hamiltonian_evaluations": 1082
+  }
+]

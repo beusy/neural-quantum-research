@@ -1,0 +1,74 @@
+[
+  {
+    "log10_coordinate_extent": 0.0,
+    "method": "isotropic_shift",
+    "QGT_threshold_rank": 80,
+    "correlation_threshold_rank": 80,
+    "physical_direction_cosine": 1.0000000000000002,
+    "relative_physical_parameter_step_change": 0.0,
+    "finite_energy_change": -0.0065252405716158535
+  },
+  {
+    "log10_coordinate_extent": 0.0,
+    "method": "diagonal_shift",
+    "QGT_threshold_rank": 80,
+    "correlation_threshold_rank": 80,
+    "physical_direction_cosine": 0.9999999999999998,
+    "relative_physical_parameter_step_change": 0.0,
+    "finite_energy_change": -0.004378180961026601
+  },
+  {
+    "log10_coordinate_extent": 1.0,
+    "method": "isotropic_shift",
+    "QGT_threshold_rank": 79,
+    "correlation_threshold_rank": 80,
+    "physical_direction_cosine": 0.9420021113840451,
+    "relative_physical_parameter_step_change": 0.8992641311236673,
+    "finite_energy_change": -0.0029537684019320665
+  },
+  {
+    "log10_coordinate_extent": 1.0,
+    "method": "diagonal_shift",
+    "QGT_threshold_rank": 79,
+    "correlation_threshold_rank": 80,
+    "physical_direction_cosine": 1.0,
+    "relative_physical_parameter_step_change": 1.5595217596207386e-13,
+    "finite_energy_change": -0.00437818096103193
+  },
+  {
+    "log10_coordinate_extent": 3.0,
+    "method": "isotropic_shift",
+    "QGT_threshold_rank": 45,
+    "correlation_threshold_rank": 80,
+    "physical_direction_cosine": 0.4463581485344839,
+    "relative_physical_parameter_step_change": 0.8969113022137248,
+    "finite_energy_change": -0.002884265790763507
+  },
+  {
+    "log10_coordinate_extent": 3.0,
+    "method": "diagonal_shift",
+    "QGT_threshold_rank": 45,
+    "correlation_threshold_rank": 80,
+    "physical_direction_cosine": 0.9999999999999998,
+    "relative_physical_parameter_step_change": 1.4692198207244121e-13,
+    "finite_energy_change": -0.004378180961030154
+  },
+  {
+    "log10_coordinate_extent": 6.0,
+    "method": "isotropic_shift",
+    "QGT_threshold_rank": 24,
+    "correlation_threshold_rank": 80,
+    "physical_direction_cosine": 0.3017673811000311,
+    "relative_physical_parameter_step_change": 0.9400891785951537,
+    "finite_energy_change": -0.0013217026479139804
+  },
+  {
+    "log10_coordinate_extent": 6.0,
+    "method": "diagonal_shift",
+    "QGT_threshold_rank": 24,
+    "correlation_threshold_rank": 80,
+    "physical_direction_cosine": 0.9999999999999998,
+    "relative_physical_parameter_step_change": 1.8635747520245456e-13,
+    "finite_energy_change": -0.004378180961026601
+  }
+]
