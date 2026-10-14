@@ -31,5 +31,3 @@ The rMD17 ethanol dataset is downloaded by the molecular study's script and chec
 ## Authorship and acknowledgment
 
 **Author: Don van Beusichem.** I thank **Filippo Vicentini** for informal guidance and helpful discussions. This acknowledgment does not imply a formal supervision arrangement, coauthorship, or endorsement of the conclusions.
-
-References, third-party software, and datasets retain their original attribution. The supplied reports are preserved unchanged, including their printed dates. Study dates are January 2026 (molecular potentials), March 2026 (electronic states), and May 2026 (diagnostics). Technical environment records and random seeds are preserved as supplied.
