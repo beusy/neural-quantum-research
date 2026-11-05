@@ -30,4 +30,4 @@ The rMD17 ethanol dataset is downloaded by the molecular study's script and chec
 
 ## Authorship and acknowledgment
 
-**Author: Don van Beusichem.** I thank **Filippo Vicentini** for informal guidance and helpful discussions. This acknowledgment does not imply a formal supervision arrangement, coauthorship, or endorsement of the conclusions.
+**Author: Don van Beusichem.** I thank **Filippo Vicentini** for informal guidance and helpful discussions. 
